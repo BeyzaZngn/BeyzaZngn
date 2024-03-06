@@ -1,6 +1,11 @@
 # 💫 About Me:
-👨‍💻 Bilgisayar Mühendisliği Öğrencisiyim.<br>🧠 Yapay zeka destekli mobil teknolojilere üzerine ilgiliyim.<br>🚀 Üniversitenin erken yıllarından itibaren Teknofest gibi <br>etkinliklere aktif katılım gösterdim.<br>🛩️ Mobil teknolojiler, İHA'lar ve otonom araç sistemleri <br>üzerinde çalıştım.<br>💼 Girişimcilik, takım çalışması ve liderlik becerilerimi <br>geliştirmeye devam ediyorum.<br>🎓 Şu anda Google Oyun ve Uygulama Akademisi ile <br>T3 Girişim Merkezi Girişimci Yetiştirme Programı'nda <br>bursiyer olarak aktif bir şekilde yer alıyorum.<br>
-
+👨‍💻 I am a Computer Engineering student.
+🧠 I am interested in AI-supported mobile technologies.
+🚀 I have been actively participating in events like Teknofest since the early years of university.
+🛩️ I have worked on mobile technologies, UAVs, and autonomous vehicle systems.
+💼 I am continuing to develop my entrepreneurship, teamwork, and leadership skills.
+🎓 Currently, I am actively involved as a scholarship recipient in the Google Play and App Academy 
+and the T3 Entrepreneurship Center Entrepreneurship Development Program.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/beyzazengin1) 
