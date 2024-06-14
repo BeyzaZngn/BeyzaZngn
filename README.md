@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a Computer Engineering student.<br>🧠 I am interested in AI-supported mobile technologies.<br>🚀 I have been actively participating in events like Teknofest since the early years of university.<br>🛩️ I have worked on mobile technologies, UAVs, and autonomous vehicle systems.<br>💼 I am continuing to develop my entrepreneurship, teamwork, and leadership skills.<br>🎓 Currently, I am actively involved as a scholarship recipient in the Google Game and <br>App Academy and the T3 Entrepreneurship Center Entrepreneurship Development Program.
-
+👨‍💻 I am a Computer Engineering student.<br>🧠 I am interested in AI-supported mobile technologies.<br>🚀 I have been actively participating in events like Teknofest since the early years of university.<br>🛩️ I have worked on mobile technologies, UAVs, and autonomous vehicle systems.<br>💼 I am continuing to develop my entrepreneurship, teamwork, and leadership skills.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/beyzazengin1) 
