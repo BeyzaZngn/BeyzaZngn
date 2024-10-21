@@ -2,7 +2,7 @@
 👨‍💻 I am a Computer Engineering student.<br>🧠 I am interested in AI-supported mobile technologies.<br>🚀 I have been actively participating in events like Teknofest since the early years of university.<br>🛩️ I have worked on mobile technologies, UAVs, and autonomous vehicle systems.<br>💼 I am continuing to develop my entrepreneurship, teamwork, and leadership skills.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/beyzazengin1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beyzazengin1/)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
